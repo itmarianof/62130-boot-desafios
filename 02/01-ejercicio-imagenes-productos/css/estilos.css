@@ -1,0 +1,47 @@
+body {
+    background-color: #273238;
+    color: white;
+
+}
+
+header {
+    color: #698593;
+    text-align: justify;
+}
+
+p {
+    color: #d0d8dc;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+
+}
+
+
+h1 {
+    color: #5e7784; 
+    text-align: center; 
+    font-family:Impact, Charcoal, sans-serif; 
+    font-size: 60px; 
+    background-color: #FFFFFF;
+}
+
+
+
+
+
+h2 {
+    font-family: Arial, Gadget, sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-style: italic;
+}
+
+h2::first-letter {
+    font-size: 125%;
+
+}
+
+
+img {
+    border: solid 5px;
+    margin-left: 45px;
+}
